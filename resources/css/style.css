@@ -1,3 +1,23 @@
+.brands {
+  color: #313437;
+  /* background-color: #fff; */
+}
+
+.brands img {
+  display: inline-block;
+  margin: 10px 20px;
+  vertical-align: middle;
+  max-width: 5em;
+}
+
+section {
+  margin: 4em 0em 4em 0em;
+}
+
+h3 {
+  margin: 2em 0em 2em 0em;
+}
+
 .section-title {
     margin: 3rem 0 3rem 0;
     position: relative;
