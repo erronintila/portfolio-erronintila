@@ -1,4 +1,8 @@
-var scroll = new SmoothScroll('a[href*="#"]', {
-  speed: 700,
-  speedAsDuration: true,
+$(document).ready(function () {
+  var scroll = new SmoothScroll('a[href*="#"]', {
+    speed: 700,
+    speedAsDuration: true,
+  });
 });
+
+
